@@ -1,0 +1,3 @@
+Put your patched binaries in here.
+
+Separating the originals from the patched binaries is important!
